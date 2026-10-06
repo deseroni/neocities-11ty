@@ -1,0 +1,108 @@
+/* 1/2/2026 */
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "PlusJakartaSansItalic";
+    src: url(../assets/find-me/PlusJakartaSans-Italic-VariableFont_wght.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "PlusJakartaSans";
+    src: url(../assets/find-me/PlusJakartaSans-VariableFont_wght.ttf) format("truetype");
+}
+
+html {
+  font-family: "PlusJakartaSans", "PlusJakartaSansItalic", sans-serif;
+}
+
+
+body {
+    max-width: 650px;
+  	margin: 1rem auto;
+    background-color: #fbb994;
+    overflow-y: scroll;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	  font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.linkbox {
+    margin: 0rem auto;
+    padding: 20px 24px;
+    display: flex;
+    align-items: center;
+
+    background-color:#fb795d;
+
+    font-family: PlusJakartaSans;
+    font-size: 1.5rem;
+    color: white;
+    border-bottom: 2px solid #4D3A3C;
+    border-left: 2px solid #4D3A3C;
+    border-right: 2px solid #4D3A3C;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: 2px solid underline;
+}
+
+
+a:visited {
+  color: inherit;
+}
+
+.linkbox:hover, nav li:hover {
+    background-color: #e56646;
+}
+
+.text {
+    margin-left: 32px;
+}
+
+.svg {
+  width: 40px;
+  height: 40px;
+}
+
+img {
+  max-width: 100%;
+}
+
+header {
+  border: 2px solid #4D3A3C;
+}
+
+header img {
+    max-width: 100%;
+    display: block;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+}
+
+
+@media screen and (max-width: 700px) {
+  body {
+    height: auto;
+    overflow: auto;
+  }
+
+  nav ul {
+    display: block;
+  }
+}
