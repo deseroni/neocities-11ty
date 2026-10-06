@@ -1,0 +1,21 @@
+{% extends "layouts/normal.njk" %}
+
+{% block content %}
+<section>
+  <div class="content">
+    <div class="content-img">
+    <img src="{{ imgSrc }}" alt="{{ page.data.title or title }}">
+    </div>
+    <div class="content-text">
+      <h2>{{ title | safe }}</h2>
+        <ul>
+          <li>Age:{{ age }}</li>
+          <li>Height: {{ height }}</li>
+          <li>Species: {{ species }}</li>
+          <li>Favorite food: {{ favFood }}</li>
+        </ul>
+        {{ content | safe }}
+    </div>
+  </div>
+</section>
+{% endblock %}

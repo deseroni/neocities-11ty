@@ -1,0 +1,16 @@
+	<header>
+		{%- if headerSpecial == 'true' -%}
+			<img src="{{ headerSrc }}" alt="{{ page.data.title or title }}">
+		{%- else -%}
+			<img aria-hidden="true" src="../../assets/header/h-miku.png">
+		{%- endif -%}
+	</header>
+	<nav>
+		<ul>
+			<li><a href="/index.html">Home</a></li>
+			<li><a href="/blog.html">Blog</a></li>
+			<li><a href="/garage.html">Garage</a></li>
+			<li><a href="/library.html">Library</a></li>
+			<li><a href="/updates.html">Updates</a></li>
+		</ul>
+	</nav>

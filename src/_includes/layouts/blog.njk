@@ -1,0 +1,9 @@
+{% extends "layouts/base.njk" %}
+
+{% block content %}
+<section>
+	<h2>{{ title | safe}}</h2>
+	{{ content | safe }}
+	<a href="../blog.html">Back...</a>
+</section>
+{% endblock %}

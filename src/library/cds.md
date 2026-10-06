@@ -1,0 +1,211 @@
+---
+permalink: "library/cds.html"
+layout: 'layouts/normal.njk'
+title: "CDs"
+tags: "library1"
+---
+
+## CDs
+
+Some include MP3 uploads. Some ripped and/or scanned by me.
+
+ <section class="card-gallery">
+        <div class="card">
+            <img src="../images/cds/fake-land.jpg" alt="Fake Land album cover">
+            <a href="cds/faketype-fakeland.html">
+                <p>FAKE TYPE - Fake Land</p>
+            </a>
+        </div>
+        <div class="card">
+            <img src="../images/cds/teneritas.jpg" alt="teneritas album cover">
+            <a href="cds/key-teneritas.html">
+                <p>Key Sounds Label - teneritas</p>
+            </a>
+        </div>
+        <div class="card">
+            <img src="../images/cds/familyswing.jpg" alt="Family Swing album cover">
+            <a href="cds/ymck-familyswing.html">
+                <p>YMCK - Family Swing</p>
+            </a>
+        </div>
+        <div class="card">
+            <img src="../images/cds/otogi.jpg" alt="Otogi album cover">
+            <a href="cds/eve-otogi.html">
+                <p>Eve - Otogi</p>
+            </a>
+        </div>
+        <div class="card">
+            <img src="../images/cds/incubus-morningview.jpg" alt="Morning View album cover">
+            <a href="cds/incubus-morningview.html">
+                <p>Incubus - Morning View</p>
+            </a>
+        </div>
+        <div class="card">
+            <img src="../images/cds/INNERVE.jpg" alt="INNERVE album cover">
+            <a href="cds/cleantears-innerve.html">
+                <p>Clean Tears - INNERVE</p>
+            </a>
+        </div>
+        <div class="card">
+            <img src="../images/cds/tondemomirai.jpg" alt="The Fantastic Diagram of Futuristic Playdreams cover">
+            <a href="cds/sasakureuk-tondemomirai.html">
+                <p>sasakure.UK - The Fantastic Diagram of Futuristic Playdreams</p>
+            </a>
+        </div>
+        <div class="card">
+            <img src="../images/cds/Booklet Front.jpg" alt="Hoshi no Kirby 64 soundtrack cover">
+            <a href="cds/hal-kirby64.html">
+                <p>Hoshi no Kirby 64 Original Soundtrack</p>
+            </a>
+        </div>
+        <div class="card">
+            <img src="../images/cds/ktsdoj_cover.jpg" alt="Dodonpachi DOJ and Ketsui soundtrack cover">
+            <a href="cds/cave-ketsuidoj.html">
+                <p>Dodonpachi Dai-ou-jou / Ketsui Kizunajigokutachi Original Sound Track</p>
+            </a>
+        </div>
+        <div class="card">
+            <img src="../images/cds/mrd1_cover.jpg" alt="MAD RAT DEAD album cover">
+            <a href="cds/nis-mrd1.html">
+                <p>MAD RAT DEAD Original Soundtrack</p>
+            </a>
+        </div>
+        <div class="card">
+            <img src="../images/cds/mrd2_cover.jpg" alt="MAD RAT DEAD Vol.2 album cover">
+            <a href="cds/nis-mrd2.html">
+                <p>MAD RAT DEAD Original Soundtrack Vol.2</p>
+            </a>
+        </div>							
+        <div class="card">
+            <img src="../images/cds/A Sugar Business.jpg" alt="A Sugar Business album cover">
+            <a href="cds/istyle-asugarbusiness.html">
+                <p>i-style project - A Sugar Business</p>
+            </a>
+        </div>
+        <div class="card">
+            <img src="../images/cds/tohobimg5e.jpg" alt="SWING HOLIC VOLUME 5 album cover">
+            <a href="cds/swingholic-vol5.html">
+                <p>Swing Holic VOL.05</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/tohobimg6e.jpg" alt="SWING HOLIC VOLUME 6 album cover">
+            <a href="cds/swingholic-vol6.html">
+                <p>Swing Holic VOL.06</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/acme.png" alt="Iku Akume training diary cover">
+            <a href="cds/paraoka-iku.html">
+                <p>paraoka - Iku Akume training diary</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/makuhari.png" alt="Splatoon Live in Makuhari -Shioka Live-">
+            <a href="cds/splatoon-shiokalive.html">
+                <p>Splatoon Live in Makuhari -Shioka Live-</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/virtual.jpg" alt="Virtual Popstar album cover">
+            <a href="cds/mitchiem-popstar.html">	
+                <p>Mitchie M - Virtual Popstar</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/Splatune 3 cover.jpg" alt="Splatune 3 album cover">
+            <a href="cds/splatoon-splatune3.html">	
+                <p>Splatune 3</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/cosmic.jpg" alt="Because, cosmic remixes. album cover">
+            <a href="cds/siinamota-cosmicremixes.html">
+                <p>siinamota - Because, cosmic remixes.</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/rkmanholic.jpg" alt="ROCKMAN HOLIC the 25th anniversary album cover">
+            <a href="cds/soundholic-rockman.html">
+                <p>SOUND HOLIC - ROCKMAN HOLIC ~ the 25th anniversary ~</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/crossniq.jpg" alt="CROSSNIQ+ Original Sound cover">
+            <a href="cds/krieger-crossniq.html">
+                <p>UPLINK - CROSSNIQ+ Original Sound</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/cosmo_infinity2.jpg" alt="Infinity album cover">
+            <a href="cds/cosmo-infinity.html">
+                <p>cosMo/BouSouP- ∞-InfinitY-</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/Fever_Album.png" alt="Fever album cover">
+            <a href="cds/samfree-fever.html">
+                <p>samfree - Fever</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/kanariacode.jpg" alt="Kanaria.code album cover">
+            <a href="cds/kanaria-code.html">
+                <p>Kanaria - Kanaria.code</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/fye_eurosound.jpg" alt="european sound community album cover">
+            <a href="cds/frederic-eurosound.html">
+                <p>Frédéric Messent - european  sound community</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/fye_electrocution.jpg" alt="Electrocution album cover">
+            <a href="cds/turnupthemusic-electro.html">
+                <p>Turn Up The Music Inc. - Electrocution</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/gamesa.jpg" alt="Gamesa International Christmas disc album cover">
+            <a href="cds/cumbala-gamesa.html">
+                <p>Cumbala Productions - Gamesa International Christmas disc</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/theminute.jpg" alt="The Minute album cover">
+            <a href="cds/duett-theminute.html">
+                <p>Yatte & Duett - The Minute</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/babelism.jpg" alt="Babelism album cover">
+            <a href="cds/paraoka-babelism.html">
+                <p>Koujimachi-Ongen - Babelism</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/airost.jpg" alt="AIR Original Soundtrack album cover">
+            <a href="cds/key-air.html">
+                <p>Key Sounds Label - AIR Original Soundtrack</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/namitape-flitter.jpg" alt="Flitter album cover">
+            <a href="cds/namitape-flitter.html">
+                <p>Namitape - Flitter</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/jamiepage-companions.jpg" alt="Constant Companions album cover">
+            <a href="cds/jamiepage-companions.html">
+                <p>Jamie Page - Constant Companions (Deluxe Edition)</p>
+            </a>
+        </div>
+        <div class="card">
+                <img src="../images/cds/momentwake.jpg" alt="Momentwake album cover">
+            <a href="cds/tsugiedgi-momentwake.html">
+                <p>TsugiEdgi - Momentwake</p>
+            </a>
+        </div>
+</section>

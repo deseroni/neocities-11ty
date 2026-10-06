@@ -1,0 +1,363 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "Lunasima";
+    src: url(../assets/fonts/Lunasima-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Capriola";
+    src: url(../assets/fonts/Capriola-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Assistant";
+    src: url(../assets/fonts/Assistant-Regular.ttf) format("truetype");
+}
+
+html {
+  font-family: "Lunasima", "Capriola", "Assistant", Consolas, sans-serif;
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --text: #4D3A3C;
+        --link: #00a854;
+        --page-bg: #fbb994;
+        --other-bg: #fff;
+        --nav: #fb795d;
+        --nav-hover: #e56646;
+        --section-bg: #FAF4ED;
+        --hr: #9e9c94;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text: #edfaf0;
+        --link: #fb795d;
+        --page-bg: #61ac61;
+        --other-bg: #283b44;
+        --nav: #0a7a39;
+        --nav-hover: #136635;
+        --section-bg: #1f2e28;
+        --hr: #bfdcdf;
+    }
+}
+
+body {
+	max-width: 65rem;
+	margin: 1.8rem auto;
+    background-color: var(--page-bg);
+    color: var(--text);
+	border: 1px solid var(--text);
+    overflow-y: scroll;
+}
+
+section {
+	width: auto;
+	padding: 10px 30px;
+	background-color: var(--section-bg);
+	line-height: 1.7rem;
+	font-family: Lunasima;
+}
+
+section a {
+	color: var(--link);
+}
+
+.smallbox {
+	max-width: 42rem;
+	padding: 16px;
+	background-color: var(--other-bg);
+}
+
+nav ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    justify-content: space-evenly;
+	background-color: var(--nav);
+	border-top: 1px solid var(--text);
+}
+
+nav a {
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+nav li {
+	display: inline-block;
+    padding: 12px 20px;
+    font-size: 1.1rem;
+	font-family: Lunasima;
+}
+
+header img {
+    max-width: 100%;
+    display: block;
+}
+
+footer {
+	background-color: var(--section-bg);
+	text-align: center;
+	padding: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Lunasima;
+}
+
+hr {
+	background: linear-gradient(to right, var(--section-bg), var(--nav), var(--section-bg));
+    height: 3px;
+    border: 0;
+}
+
+.simplehr {
+	background: linear-gradient(to right, var(--section-bg), var(--hr), var(--section-bg));
+    height: 3px;
+    border: 0;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+mark {
+	background-color: #fad737;
+	color: var(--text);
+}
+
+dd {
+	font-size: 1.1rem;
+    padding: 4px;
+}
+
+ul li {
+    list-style: square;
+}
+
+.indent {
+	text-indent: 2rem;
+}
+
+.center {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.small-header {
+    font-size: 1.15rem;
+}
+
+figure {
+	max-width: 400px;
+	background-color: var(--other-bg);
+	border: 1px solid var(--text);
+	padding: 6px;
+}
+
+figure img {
+    object-fit: cover;
+}
+
+figcaption {
+	font-size: 0.9rem;
+	text-align: center;
+}
+
+/* Text left/icon right, text right/icon left things */
+
+.row-right {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1em;
+}
+
+.row-left {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    gap: 1em;
+}
+
+.row-right img {
+    border: 1px solid var(--hr);
+    align-self: center;
+}
+.row-left img {
+    border: 1px solid var(--hr);
+    align-self: center;
+}
+
+
+.row-left-350 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    gap: 1em;
+}
+
+.row-left-350 img {
+    border: 1px solid var(--hr);
+    align-self: center;
+    width: 350px;
+}
+
+/* Library/etc cards */
+
+.card-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+	gap: 0.8rem;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--hr);
+	background-color: var(--other-bg);
+    flex: 0 1 30%;
+    /* This means in your media query for different screen sizes, 
+    the .card "flex" category is the only thing that you *need* to change*/
+}
+
+.card p {
+    text-align: center;
+    font-size: 1.12rem;
+}
+
+.card img {
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    margin: 10px;
+	margin-bottom: 0;
+    border: 1px solid var(--hr);
+}
+
+/* CHARACTER Cards */
+
+.character-gallery {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.8rem;
+}
+
+.character {
+	width: 136px;
+	max-height: 200px;
+	text-align: center;
+}
+
+.character img {
+	max-width: 132px;
+	border: 1px solid var(--hr);
+}
+
+.character-BIG {
+	width: 210px;
+	text-align: center;
+}
+
+.character-BIG img {
+	max-width: 200px;
+    object-fit: cover;
+	border: 1px solid var(--hr);
+}
+
+
+/* Table replacement */
+
+.content {
+  display: flex;
+  flex-direction: row;
+  height: 550px;
+}
+
+.content-img {
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  align-items: center;
+  width: 320px;
+  border-right: 1px solid var(--hr);
+}
+
+.content img {
+	max-width: 300px;
+	max-height: 550px;
+}
+
+.content-text {
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  padding: 10px;
+}
+
+/* HTML Day 2025 additions */
+
+kbd {
+	padding: 2px 4px;
+	border-radius: 4px;
+	border: 1px solid var(--hr);
+	font-family: Courier New;
+}
+
+/* Link reaction */
+
+a:link {
+    text-decoration: none;
+}
+
+li a:hover, a:hover, a:active {
+    text-decoration: underline;
+}
+
+.works-card img:hover {
+	opacity: 0.8;
+}
+
+nav li:hover {
+	background-color: var(--nav-hover);
+}
+
+@media screen and (max-width: 700px) {
+  body {
+    height: auto;
+    overflow: auto;
+  }
+
+  nav ul {
+    display: block;
+  }
+
+.row-left-350 {
+    display: block;
+}
+   .content {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .content-text {
+    overflow: visible;
+    max-height: fit-content;
+  }
+
+  .content-img {
+    width: 100%;
+    border-right: none;
+	border-bottom: 1px solid var(--hr);
+  }
+}
