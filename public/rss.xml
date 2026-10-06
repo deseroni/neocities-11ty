@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>des.neocities.org Feed</title>
+        <description>Updates from the Blog, Diary, and other pages.</description>
+        <link>https://des.neocities.org</link>
+        <ttl>4320</ttl>
+<--! where items start -->
+        <item>
+            <title>Version Three Update</title>
+            <description>
+                Version Three of my site is now live. More on the blog post.
+            </description>
+            <link>https://des.neocities.org/blog/2026-1005</link>
+            <pubDate>
+            Mon, 05 Oct 2026 21:50:00 -0700
+            </pubDate>
+        </item>
+    </channel>
+</rss>
