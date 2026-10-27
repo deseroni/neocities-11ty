@@ -6,6 +6,7 @@ title: "Changelog - des"
 
 ## Updates
 
++ **10/26/2026:** Art page launch. Thank you to Tip for the code!!! Added 2026 works and selected works from 2025 and before, for a start.
 + **10/5/2026:** Version Three launch. Blog post about it, 3 new CDs, new diary entry, RSS feed launch
 + **6/30/2026:** "New" blog: Luvmilk Bath and Body, new diary entries
 + **5/18/2026:** Playstation 2 Modding blog: The SSD Died, Kirby Gijinka Portal: Kirby anniversary art update
@@ -114,6 +115,7 @@ title: "Changelog - des"
 + **Site button:** Anonymous - I am in debt to you
 + **Most art and code:** Me
 + **Help and guidance:** Tip, Miko
++ **Art page code:** Tip
 + **Library image:** Somato - Shadows House, Volume 4
 + **PS2 Modding header:** Klonoa@home winter wallpaper
 + **Dream C Club header:** Pure Songs album booklet scan

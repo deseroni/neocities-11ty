@@ -1,0 +1,14 @@
+---
+layout: layouts/artBase
+id: gallery
+---
+  <aside class="left flex-column container gallery-sidebar">
+    <h2>Gallery Folders</h2>
+    {% include "partials/_galleryCategories.njk" %}
+  </aside>
+  
+  <main class="right container">
+    <div class="gallery">
+      {{ content | safe }}
+    </div>
+  </main>

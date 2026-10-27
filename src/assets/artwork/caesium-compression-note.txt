@@ -1,0 +1,3 @@
+ratio: 75% (keep aspect ratio)
+png: 70%
+check modify date to be sure you're not compressing a previously compressed image

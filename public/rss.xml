@@ -5,7 +5,16 @@
         <description>Updates from the Blog, Diary, and other pages.</description>
         <link>https://des.neocities.org</link>
         <ttl>4320</ttl>
-<--! where items start -->
+        <item>
+            <title>Art Page Launch</title>
+            <description>
+                Art page launch. Thank you to Tip for the code!!! Added 2026 works and selected works from 2025 and before, for a start.
+            </description>
+            <link>https://des.neocities.org/art.html</link>
+            <pubDate>
+            Mon, 26 Oct 2026 19:00:00 -0700
+            </pubDate>
+        </item>
         <item>
             <title>Version Three Update</title>
             <description>

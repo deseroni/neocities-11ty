@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/artArtwork",
+  "tags": "scraps",
+  "permalink": "/art/{{ page.fileSlug }}.html"
+}

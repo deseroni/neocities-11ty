@@ -1,0 +1,34 @@
+---
+headerTitle: Dededes
+title: Dededes Gallery
+id: home
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/art.css" />
+  <title>{{ title }}</title>
+</head>
+<body id="{{ id }}">
+  <div class="grid">
+  <header class="header">
+    <div class="title">
+      <span class="avatar"></span> 
+      <h1><a href="/art.html">{{ headerTitle }}</a></h1>
+    </div>
+      <nav>
+          <ul>
+              <li><span class="icon-info"></span><a class="nav-link" href="/">Home</a></li>
+              <li><span class="icon-gallery"></span><a class="nav-link" href="/art/gallery.html">Gallery</a></li>
+              <li><span class="icon-scraps"></span><a class="nav-link" href="/art/gallery/scraps.html">Scraps</a></li>
+              <li><span class="icon-journal"></span><a class="nav-link" href="/art/journal.html">Journal</a></li>
+          </ul>
+      </nav>
+    </header>
+
+    {{ content | safe }}
+  </grid>
+</body>
+</html>

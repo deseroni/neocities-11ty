@@ -1,0 +1,17 @@
+---
+layout: /layouts/artBase
+---
+  
+<div class="left flex-column container">
+  {% include "partials/_galleryPreview.njk" %}
+  {% include "partials/_artHighlight.njk" %}
+</div>
+
+<div class="right flex-column container">
+  <div class="box">
+    <div class="box-header container"><h2>Small About</h2></div>
+    <div class="box-main container">
+      {{ content | safe }}
+    </div>
+  </div>
+</div>

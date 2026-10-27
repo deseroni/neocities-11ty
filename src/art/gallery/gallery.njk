@@ -1,0 +1,15 @@
+---
+title: Gallery
+layout: layouts/artGallery
+permalink: /art/gallery.html
+---
+{% for art in collections.artwork | reverse %}
+  <div class="gallery-card">
+    <a href="{{ art.url }}">
+      <figure>
+          <img src="{{ art.data.url }}">
+          <figcaption>{{ art.data.title }}</figcaption>
+      </figure>
+    </a>
+  </div>
+{% endfor %}

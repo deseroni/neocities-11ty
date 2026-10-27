@@ -19,5 +19,5 @@ Feel free to check out anything so long as you return it in 2 weeks.
 
 + ![](../images/pixels/pics.gif) [Art Resources](./library/art.html)
 + ![](../images/pixels/puter.gif) [Software](./library/software.html)
-+ ![](../images/pixels/mix.gif) [Recipes](./library/software.html)
++ ![](../images/pixels/mix.gif) [Recipes](./library/recipes.html)
 + ![](../images/pixels/061.gif) [Graphics](./library/graphics.html)

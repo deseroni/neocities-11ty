@@ -5,7 +5,7 @@ layout: 'layouts/normal.njk'
 
 <br>
 <div class="row-left">
-	<img src="./images/my-art/splatoon/ika-icon4.png">
+	<img src="./assets/graphics/ika-icon4.png">
 	<div class="text-container">
 		<p>
 			This is a bottom-of-the-barrel hobby site of a left-handed person. Painting is everything. I like water, bread, cookies, chorizo, long walks, toys, sci-fi, and wearing shorts.
@@ -21,7 +21,7 @@ layout: 'layouts/normal.njk'
 </div>
 <br>
 <div class="row-right">
-	<img src="./images/my-art/manila/manila-icon3.png">
+	<img src="./assets/graphics/manila-icon3.png">
 	<div class="text-container">
 		<p>
 			Manila is the site <s>mascot</s> clerk, a robot that looks like a ball-jointed doll. She organizes everything you see here. Looks icy but is just serious about her work.
@@ -31,7 +31,7 @@ layout: 'layouts/normal.njk'
             <a href="./manila.html">Manila artwork</a>
         </p>
 		<p>
-			Last site update: 10/5/2026
+			Last site update: 10/26/2026
 		</p>
 	</div>
 </div>

@@ -1,0 +1,19 @@
+---
+layout: layouts/artBase
+id: gallery
+---
+  <aside class="left flex-column container">
+    <a class="button" href="/art/gallery/">🢐 Main Gallery</a>
+  </aside>
+  
+  <main class="right container">
+    <h2 class="subgallery-title">
+      {%if category.name %}
+      {{ category.name | title }}
+      {%else%} {{ title }}
+      {%endif %}
+    </h2>
+    <div class="gallery">
+      {{ content | safe }}
+    </div>
+  </main>

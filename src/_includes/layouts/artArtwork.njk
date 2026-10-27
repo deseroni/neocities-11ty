@@ -1,0 +1,38 @@
+---
+layout: layouts/artBase
+id: art
+---
+<div class="container artwork">
+  <div class="artwork-img">
+    <img src="{{ url }}">
+  </div>
+
+  <div class="box artwork-info">
+    <div class="info-left">
+      <h2>{{ title }}</h2>
+
+      {# Reorganize the details sidebar here! #}
+      
+      <div class="date">Published: {{ date | niceDate }}</div>
+
+      <div class="tags">
+        Tags: 
+        {% set displayTags = tags | reject("equalto", "artwork") %}
+        {% for t in displayTags %}
+          #<a href="/art/gallery/{{ t | slugify }}.html">{{ t | title }}</a>
+        {% endfor %}
+      </div>
+
+      <div class="download">
+        <span class="dl-icon"></span> <a href="{{ url }}">Full View</a>
+      </div>
+
+      {# End #}
+
+    </div>
+    <div class="info-right">
+      <strong>Artist Comments:</strong>
+      {{ content | safe }}
+    </div>
+  </div>
+</div>

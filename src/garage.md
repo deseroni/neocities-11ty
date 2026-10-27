@@ -3,7 +3,7 @@ permalink: "/garage.html"
 layout: 'layouts/normal.njk'
 title: "Garage - des"
 ---
-<img align="right" width="40%" src="./images/my-art/vocaloid/betakufinal.gif">
+<img align="right" width="40%" src="./assets/graphics/betakufinal.gif">
 
 ## Garage
 
