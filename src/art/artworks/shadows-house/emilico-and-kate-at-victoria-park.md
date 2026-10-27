@@ -2,7 +2,7 @@
 title: "Emilico and Kate at Victoria Park"
 date: 2025-08-16
 url: /assets/artwork/shadows-house/emikate-wawa.jpg
-tags: ["shadows-house"]
+tags: ["shadows house"]
 ---
 getting stung by jellyfish for fun...
 

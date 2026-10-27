@@ -2,7 +2,7 @@
 title: "Barbie"
 date: 2025-12-05
 url: /assets/artwork/shadows-house/barbara.png
-tags: ["shadows-house"]
+tags: ["shadows house"]
 ---
 lost in thoughts all alone
 

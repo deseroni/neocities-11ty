@@ -2,7 +2,7 @@
 title: "Emilico and Kate at Hostetter's Viewscape"
 date: 2025-05-18
 url: /assets/artwork/shadows-house/emikate-2.jpg
-tags: ["shadows-house"]
+tags: ["shadows house"]
 ---
 i have my iphone 10 out! ok! ok you ready? say, "anne of green gables!"
 

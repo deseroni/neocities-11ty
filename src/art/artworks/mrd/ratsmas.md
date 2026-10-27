@@ -2,7 +2,7 @@
 title: Ratsmas
 date: 2021-12-24
 url: /assets/artwork/mrd/ratsmas.png
-tags: ["mad-rat-dead"]
+tags: ["mad rat dead"]
 ---
 i never draw Christmas/holiday stuff outside of Robot Rumpus... still working on that, by the way.
 

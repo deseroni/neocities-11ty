@@ -2,7 +2,7 @@
 title: "Emilico and Kate"
 date: 2025-05-14
 url: /assets/artwork/shadows-house/emikate.png
-tags: ["shadows-house"]
+tags: ["shadows house"]
 ---
 heartwarming: i took two early 20th-century orphan girls on a vacation in canada
 
