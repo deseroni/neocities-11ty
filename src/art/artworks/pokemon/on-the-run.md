@@ -8,4 +8,4 @@ they saved the game beforehand
 
 my birthday painting for [@CinnaChurroz](https://twitter.com/cinnachurroz), featuring all his trainers in the recent Pkmn games pursuing a shiny! featuring his beloved mon, Bubblegum. i realize something we have in common is liking blondes.
 
-between thesis work and stuff, i haven't tracked the time for this at all. let's assume 15-16 hours...
+between thesis work and stuff, i haven't tracked the time for this at all. 15-16 hour estimate

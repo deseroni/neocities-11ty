@@ -31,7 +31,7 @@ layout: 'layouts/normal.njk'
             <a href="./manila.html">Manila artwork</a>
         </p>
 		<p>
-			Last site update: 10/26/2026
+			Last site update: 11/14/2026
 		</p>
 	</div>
 </div>
@@ -94,6 +94,7 @@ layout: 'layouts/normal.njk'
 [![temstuff](./images/button/temstuff4.gif)](https://temstuff.neocities.org)
 [![web coming ring](./images/button/webcomicring.png)](https://webcomicring.org)
 [![joosh](./images/button/joosh.png)](https://joo.sh)
+[![sunset archive](./images/button/buttonforsunset.png)](https://sunset.femslash.club)
 [![tmk.net](./images/button/tmk.png)](https://www.themushroomkingdom.net)
 [![kirby's rainbow resort](./images/button/newlink4.png)](http://www.kirbysrainbowresort.net/)
 [![spriter's resource](./images/button/the-spriters-resource.gif)](https://www.spriters-resource.com)

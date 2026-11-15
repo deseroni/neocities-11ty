@@ -82,6 +82,13 @@ title: "Manila Artwork - des"
     </a>
         by <a href="https://swiss.newgrounds.com/">Swiss</a>
 </div>
+
+<div class="character-BIG">
+    <a href="images/manila/10-28.jpg">			
+        <img src="images/manila/10-28-thumb.png" alt="Tip thumbnail">
+    </a>
+        by <a href="https://ectobe.ing">Tip</a>
+</div>
 </section>
 
 [Back...](index.html)
