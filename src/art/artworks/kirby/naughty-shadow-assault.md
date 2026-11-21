@@ -1,7 +1,7 @@
 ---
-title: Which eyes do you like?
+title: Naughty Shadow Assault
 date: 2022-07-09
-url: /assets/artwork/kirby/eyes.png
+url: /assets/artwork/kirby/dededes_shadowkb.png
 tags: ["kirby"]
 ---
 the only thing worse than one Shadow Kirby is 13 Shadow Kirbys.
