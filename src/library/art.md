@@ -41,6 +41,7 @@ tags: "library2"
 + [David Bayles & Ted Orland: Art and Fear: Observations On The Perils (and Rewards) of Artmaking](https://artistryinaction.files.wordpress.com/2016/03/david_bayles_ted_orland_art_and_fear.pdf)
 + [Thinking About and Discussing Art](../assets/pdf/THINKING%20ABOUT%20ART%20Subject%20Matter.pdf)
 + [visualconstructs: Master Drawings](https://architecturewise.wordpress.com/2012/02/28/master_drawings/)
++ [Open Drawing Books](https://www.drawingbooks.org/index.html)
 
 ### Painting
 

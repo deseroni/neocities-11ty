@@ -31,7 +31,7 @@ layout: 'layouts/normal.njk'
             <a href="./manila.html">Manila artwork</a>
         </p>
 		<p>
-			Last site update: 11/14/2026
+			Last site update: 11/20/2026
 		</p>
 	</div>
 </div>
@@ -94,6 +94,7 @@ layout: 'layouts/normal.njk'
 [![temstuff](./images/button/temstuff4.gif)](https://temstuff.neocities.org)
 [![web coming ring](./images/button/webcomicring.png)](https://webcomicring.org)
 [![joosh](./images/button/joosh.png)](https://joo.sh)
+[![sand triangle](./images/button/sandtriangle2.png)](https://sandtriangle.gay)
 [![sunset archive](./images/button/buttonforsunset.png)](https://sunset.femslash.club)
 [![tmk.net](./images/button/tmk.png)](https://www.themushroomkingdom.net)
 [![kirby's rainbow resort](./images/button/newlink4.png)](http://www.kirbysrainbowresort.net/)
@@ -103,6 +104,7 @@ layout: 'layouts/normal.njk'
 [![dragonfly cave](./images/button/psbuttonb12.gif)](https://https://dragonflycave.com/)
 [![copycat](./images/button/copycatsamantha4.png)](http://www.rigelatin.net/copycat/)
 [![aquabunny](./images/button/nmABBanner.PNG)](https://aquabunny.creativeworlds.net/)
+[![poke print](./images/button/pokeprint.png)](https://pokeprint.kimbachu.com/site/)
 [![sega driven](./images/button/segadriven_button02.jpg)](https://segadriven.com)
 [![39chan.moe](./images/button/39chan.gif)](https://39chan.moe)
 [![vivirin art](./images/button/vivirinart.png)](https://vivirinart.neocities.org)

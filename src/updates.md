@@ -6,6 +6,7 @@ title: "Changelog - des"
 
 ## Updates
 
++ **11/20/2026:** Art page update: Original, Coloring Pages, Kirby, Scraps. Thank you for 200,000 hits.
 + **11/14/2026:** Art page update: Bomberman, Megaman, Mad Rat Dead, Pokemon, Splatoon, Transformers, VSynth, Scraps. Manila artwork update.
 + **10/26/2026:** Art page launch. Thank you to Tip for the code!!! Added 2026 works and selected works from 2025 and before, for a start.
 + **10/5/2026:** Version Three launch. Blog post about it, 3 new CDs, new diary entry, RSS feed launch

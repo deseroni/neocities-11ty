@@ -4,7 +4,17 @@
         <title>des.neocities.org Feed</title>
         <description>Updates from the Blog, Diary, and other pages.</description>
         <link>https://des.neocities.org</link>
-        <ttl>4320</ttl>
+        <ttl>6000</ttl>
+        <item>
+            <title>200,000 hits! + Art update</title>
+            <description>
+                Art page update: Original, Coloring Pages, Kirby, Scraps. Thank you for 200,000 hits.
+            </description>
+            <link>https://des.neocities.org/assets/artwork/original/200k.png</link>
+            <pubDate>
+            Fri, 20 Nov 2026 22:00:00 -0700
+            </pubDate>
+        </item>
         <item>
             <title>Art updates</title>
             <description>

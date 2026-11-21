@@ -31,24 +31,31 @@ title: "Manila Artwork - des"
 </div>				
 
 <div class="character-BIG">
-    <a href="assets/artwork/original/manilas-gift-wrap.png">										
+    <a href="assets/artwork/original/manilas-gift-wrap.png">
         <img src="images/manila/manilas gift_wrap1_thumb.png" alt="Manila's gifts 2024 thumbnail">
     </a>
         Manila's gifts 2024
 </div>
 
 <div class="character-BIG">
-    <a href="assets/artwork/original/manila_paints.png">										
+    <a href="assets/artwork/original/manila_paints.png">
         <img src="images/manila/comm promo_thumb.png" alt="Manila painting (ft. Leche) thumbnail">
     </a>
         Manila painting (ft. Leche)
 </div>
 
 <div class="character-BIG">
-    <a href="assets/artwork/original/html-day.png">										
+    <a href="assets/artwork/original/html-day.png">
         <img src="images/manila/html day_thumb.png" alt="HTML Day 2025 thumbnail">
     </a>
         For <a href="blog/2025_0802.html">HTML Day 2025</a>
+</div>
+
+<div class="character-BIG">
+    <a href="assets/artwork/original/200k.png">		
+        <img src="images/manila/200k-thumb.png" alt="200,000 hits thumbnail">
+    </a>
+        200,000 hits celebration art
 </div>
 </section>
 
